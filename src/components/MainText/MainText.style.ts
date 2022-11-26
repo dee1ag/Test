@@ -9,5 +9,7 @@ export const styles = StyleSheet.create<IStyle>({
     width: '40%',
     textAlign: 'center',
     fontSize: 14,
+    color: 'black',
+    fontFamily: 'Montserrat-SemiBold',
   },
 });

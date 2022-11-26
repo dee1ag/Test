@@ -17,6 +17,7 @@ export const styles = StyleSheet.create<IStyle>({
     alignSelf: 'center',
     top: 13,
     color: 'white',
+    fontFamily: 'Montserrat-SemiBold',
   },
   checkmark: {
     position: 'absolute',
@@ -31,5 +32,6 @@ export const styles = StyleSheet.create<IStyle>({
     zIndex: -10,
     alignSelf: 'center',
     top: 13,
+    fontFamily: 'Montserrat-SemiBold',
   },
 });
